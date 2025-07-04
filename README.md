@@ -86,33 +86,33 @@ Other platforms supporting Python and WSGI servers
 ## 📸 Screenshots
 
 ### 🔑 Login Page
-![Login](https://github.com/Kimrensca/stroke-predictor/blob/main/static/screenshots/login.png?raw=true)
+![Login](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/login.png)
 
 ### 📝 Register Page
-![Register](https://github.com/Kimrensca/stroke-predictor/blob/main/static/screenshots/register.png?raw=true)
+![Register](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/register.png)
 
 ### ✉️ Forgot Password Page
-![Forgot Password](https://github.com/Kimrensca/stroke-predictor/blob/main/static/screenshots/forgot_password.png?raw=true)
+![Forgot Password](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/forgot_password.png)
 
 ### 🏠 Home Page
-![Home](https://github.com/Kimrensca/stroke-predictor/blob/main/static/screenshots/home.png?raw=true)
+![Home](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/home.png)
 
 ### ⚙️ Prediction Form
 
 **Prediction Form - Part 1**  
-![Prediction Form 1](https://github.com/Kimrensca/stroke-predictor/blob/main/static/screenshots/predict_form.png?raw=true)
+![Prediction Form 1](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/predict_form.png)
 
 **Prediction Form - Part 2**  
-![Prediction Form 2](https://github.com/Kimrensca/stroke-predictor/blob/main/static/screenshots/predict_form2.png?raw=true)
+![Prediction Form 2](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/predict_form2.png)
 
 **Prediction Form - Part 3**  
-![Prediction Form 3](https://github.com/Kimrensca/stroke-predictor/blob/main/static/screenshots/predict_form3.png?raw=true)
+![Prediction Form 3](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/predict_form3.png)
 
 ### ✅ Prediction Result
-![Result](https://github.com/Kimrensca/stroke-predictor/blob/main/static/screenshots/result.png?raw=true)
+![Result](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/result.png)
 
 ### 🕓 Prediction History
-![History](https://github.com/Kimrensca/stroke-predictor/blob/main/static/screenshots/history.png?raw=true)
+![History](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/history.png)
 
 
 
