@@ -36,7 +36,7 @@ python -m venv venv
 3. **Activate the virtuel environment:**
         Windows:
             venv\Scripts\activate
-            
+
         macOS/Linux:
             source venv/bin/activate
 
@@ -86,33 +86,34 @@ Other platforms supporting Python and WSGI servers
 ## 📸 Screenshots
 
 ### 🔑 Login Page
-![Login](static/screenshots/login.png)
+![Login](https://github.com/Kimrensca/stroke-predictor/blob/main/static/screenshots/login.png?raw=true)
 
 ### 📝 Register Page
-![Register](static/screenshots/register.png)
+![Register](https://github.com/Kimrensca/stroke-predictor/blob/main/static/screenshots/register.png?raw=true)
 
 ### ✉️ Forgot Password Page
-![Forgot Password](static/screenshots/forgot_password.png)
+![Forgot Password](https://github.com/Kimrensca/stroke-predictor/blob/main/static/screenshots/forgot_password.png?raw=true)
 
 ### 🏠 Home Page
-![Home](static/screenshots/home.png)
+![Home](https://github.com/Kimrensca/stroke-predictor/blob/main/static/screenshots/home.png?raw=true)
 
 ### ⚙️ Prediction Form
 
 **Prediction Form - Part 1**  
-![Prediction Form 1](static/screenshots/predict_form.png)
+![Prediction Form 1](https://github.com/Kimrensca/stroke-predictor/blob/main/static/screenshots/predict_form.png?raw=true)
 
 **Prediction Form - Part 2**  
-![Prediction Form 2](static/screenshots/predict_form2.png)
+![Prediction Form 2](https://github.com/Kimrensca/stroke-predictor/blob/main/static/screenshots/predict_form2.png?raw=true)
 
 **Prediction Form - Part 3**  
-![Prediction Form 3](static/screenshots/predict_form3.png)
+![Prediction Form 3](https://github.com/Kimrensca/stroke-predictor/blob/main/static/screenshots/predict_form3.png?raw=true)
 
 ### ✅ Prediction Result
-![Result](static/screenshots/result.png)
+![Result](https://github.com/Kimrensca/stroke-predictor/blob/main/static/screenshots/result.png?raw=true)
 
 ### 🕓 Prediction History
-![History](static/screenshots/history.png)
+![History](https://github.com/Kimrensca/stroke-predictor/blob/main/static/screenshots/history.png?raw=true)
+
 
 
 
