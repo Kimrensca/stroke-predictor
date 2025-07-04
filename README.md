@@ -115,9 +115,6 @@ Other platforms supporting Python and WSGI servers
 ![History](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/history.png)
 
 
-# Test Image
-
-![Test Image](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/login.png)
 
 
 👤 Author
