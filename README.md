@@ -47,15 +47,15 @@ A Flask web application that predicts the risk of stroke based on user input.
 
     - **Windows:**
 
-        ```bash
-        venv\Scripts\activate
-        ```
+      ```bash
+      venv\Scripts\activate
+      ```
 
     - **macOS/Linux:**
 
-        ```bash
-        source venv/bin/activate
-        ```
+      ```bash
+      source venv/bin/activate
+      ```
 
 4. **Install dependencies:**
 
@@ -63,9 +63,9 @@ A Flask web application that predicts the risk of stroke based on user input.
     pip install -r requirements.txt
     ```
 
-5. **Create a `.env` file** with the following content:
+5. **Create a `.env` file:**
 
-    ```ini
+    ```
     SECRET_KEY=your_secret_key_here
     SQLALCHEMY_DATABASE_URI=sqlite:///instance/stroke_app.db
     MAIL_USERNAME=your_email@gmail.com
@@ -121,7 +121,55 @@ This app can be deployed on:
 
 ## 📸 Screenshots
 
-🎯 **[View all screenshots here → Click to open on GitHub](https://github.com/Kimrensca/stroke-predictor/issues/1)**
+### 🔑 Login Page
+
+![Login](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/login.png)
+
+---
+
+### 📝 Register Page
+
+![Register](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/register.png)
+
+---
+
+### ✉️ Forgot Password Page
+
+![Forgot Password](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/forgot_password.png)
+
+---
+
+### 🏠 Home Page
+
+![Home](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/home.png)
+
+---
+
+### ⚙️ Prediction Form
+
+**Prediction Form - Part 1**
+
+![Prediction Form 1](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/predict_form.png)
+
+**Prediction Form - Part 2**
+
+![Prediction Form 2](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/predict_form2.png)
+
+**Prediction Form - Part 3**
+
+![Prediction Form 3](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/predict_form3.png)
+
+---
+
+### ✅ Prediction Result
+
+![Result](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/result.png)
+
+---
+
+### 🕓 Prediction History
+
+![History](https://raw.githubusercontent.com/Kimrensca/stroke-predictor/main/static/screenshots/history.png)
 
 ---
 
