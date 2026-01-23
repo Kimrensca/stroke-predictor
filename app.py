@@ -20,10 +20,19 @@ serializer = URLSafeTimedSerializer(os.getenv('SECRET_KEY'))
 # Initialize Flask app
 app = Flask(__name__)
 
+# Load from env var (Render will set this)
+database_url = os.getenv('SQLALCHEMY_DATABASE_URI')
+if database_url and database_url.startswith("postgres://"):
+    # Render/Neon sometimes uses 'postgres://' — SQLAlchemy prefers 'postgresql://'
+    database_url = database_url.replace("postgres://", "postgresql://", 1)
+
 # Configure the app
 app.config['SECRET_KEY'] = os.getenv('SECRET_KEY')
-app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('SQLALCHEMY_DATABASE_URI')
+app.config['SQLALCHEMY_DATABASE_URI'] = database_url
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False  # avoids warning
+
 db = SQLAlchemy(app)
+
 
 # Initialize Flask-Mail
 app.config['MAIL_SERVER'] = 'smtp.gmail.com'
